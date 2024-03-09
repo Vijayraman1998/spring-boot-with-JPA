@@ -1,4 +1,5 @@
 ------------------- User Rest API'S details -----------------------------
+
 Add Collector - http://localhost:8080/springbootcrudrest/api/v1/users
 
 Method : POST
